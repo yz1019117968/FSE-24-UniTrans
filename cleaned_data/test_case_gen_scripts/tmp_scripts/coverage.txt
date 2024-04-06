@@ -1,0 +1,20 @@
+[EMMA v2.0.5312 report, generated Tue Aug 29 15:00:00 CST 2023]
+-------------------------------------------------------------------------------
+OVERALL COVERAGE SUMMARY:
+
+[class, %]	[method, %]	[block, %]	[line, %]	[name]
+100% (1/1)	67%  (2/3)!	86%  (31/36)	88%  (9.7/11)	all classes
+
+OVERALL STATS SUMMARY:
+
+total packages:	1
+total classes:	1
+total methods:	3
+total executable files:	1
+total executable lines:	11
+
+COVERAGE BREAKDOWN BY PACKAGE:
+
+[class, %]	[method, %]	[block, %]	[line, %]	[name]
+100% (1/1)	67%  (2/3)!	86%  (31/36)	88%  (9.7/11)	default package
+-------------------------------------------------------------------------------
