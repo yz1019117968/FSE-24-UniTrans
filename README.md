@@ -16,8 +16,8 @@ torch == 1.12.1
 - Please find the statistical test results here: [statistical test.pdf](figures%2Fstatistical%20test.pdf).
 
 ### Cleaned Dataset
-```./cleaned_data/testable_samples.jsonl```: cleaned dataset used in this work, including parallel functions of Java, Python, and C++.
-```./cleaned_data/transcoder_evaluation_gfg```: test cases associated with the cleaned dataset.
+- ```./cleaned_data/testable_samples.jsonl```: cleaned dataset used in this work, including parallel functions of Java, Python, and C++.  
+- ```./cleaned_data/transcoder_evaluation_gfg```: test cases associated with the cleaned dataset.
 
 ### Quick Start 
 
