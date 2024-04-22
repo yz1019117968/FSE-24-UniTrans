@@ -14,6 +14,7 @@ torch == 1.12.1
 - Please find the data noise breakdown here: ![img.png](figures/img.png)
 - Please find the tmp.java file here: [tmp.pdf](figures%2Ftmp.pdf).  
 - Please find the statistical test results here: [statistical test.pdf](figures%2Fstatistical%20test.pdf).
+- Please find the OJ experimental results in the folder ```oj_samples```, which is reported in the threats to validity section.  
 
 ### Cleaned Dataset
 - ```./cleaned_data/testable_samples.jsonl```: cleaned dataset used in this work, including parallel functions of Java, Python, and C++.  
